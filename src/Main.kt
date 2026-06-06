@@ -1,4 +1,4 @@
 
 fun main() {
-    println("Shrivatsan the greate ")
+    println("Shrivatsan the great")
 }
